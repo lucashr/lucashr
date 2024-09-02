@@ -15,6 +15,7 @@ Conhecimento em automação e desenvolvimento de software, com sólida experiên
 - ⚡ Curiosidade: Além de programação eu também gosto de temas relacionados a eletrônica como: microcontrolador e arduino.
 Minha iniciação científica foi a construção de uma mini central meteorológica utilizando Arduino UNO e o ESP32E.
 
+</br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucashr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
