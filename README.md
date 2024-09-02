@@ -1,6 +1,14 @@
 # Olá, me chamo Lucas! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+</br>
+
+## Habilidaes
+
+<p>
+Conhecimento em automação e desenvolvimento de software, com sólida experiência em C#, VB.NET, SAS, e SQL Server, Desenvolvimento multicamadas, API, MVC, HTML, Javascript, CSS. Possuo expertise na automação de processos bancários, desenvolvimento de robôs e manipulação de dados. Familiarizado com uma variedade de ferramentas, incluindo Visual Studio, Visual Studio Code, .NET Core, Windows Forms, WPF, Git, Selenium, XUnit, EntityFramework, Swagger, Postman, Dapper, também tenho habilidades com manutenção de sistemas e otimização de processos corporativos.
+</p>
+
 ###
 
 <div align="center">
@@ -51,7 +59,6 @@
   </a>
 </div>
 
-###
 ###
 
 <br clear="both">
