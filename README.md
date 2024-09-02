@@ -53,6 +53,8 @@ Conhecimento em automação e desenvolvimento de software, com sólida experiên
 
 ###
 
+</br>
+
 # Minhas redes
 
 <div align="left">
