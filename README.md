@@ -18,9 +18,7 @@ Conhecimento em automação e desenvolvimento de software, com sólida experiên
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucashr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-###
+</br>
 
 # Tecnologias que já trabalhei
 
