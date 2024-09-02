@@ -42,7 +42,6 @@
 </div>
 
 ###
-###
 
 # Minhas redes
 
@@ -52,6 +51,7 @@
   </a>
 </div>
 
+###
 ###
 
 <br clear="both">
